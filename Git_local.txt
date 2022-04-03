@@ -1,2 +1,4 @@
 File for communication with local Git.
 The second part.
+
+I studying git gui
